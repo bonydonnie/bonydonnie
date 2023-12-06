@@ -15,6 +15,12 @@
 **Student at The University Of The Bahamas**
 
 </h>
+
+<div align="left">
+
+![Rin Okamaru](https://images5.fanpop.com/image/photos/24900000/Okumura-Rin-ladyspaz-E2-99-A5-24981463-500-850.jpg)
+
+</div>
 <!--
 **bonydonnie/bonydonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
