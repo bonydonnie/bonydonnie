@@ -18,7 +18,7 @@
 
 <div align="left">
 
-![Rin Okamaru](https://images5.fanpop.com/image/photos/24900000/Okumura-Rin-ladyspaz-E2-99-A5-24981463-500-850.jpg)
+![Rin Okamaru](https://images6.fanpop.com/image/photos/32800000/Rin-Okumura-GIF-Ao-No-Exorcist-anime-32834440-400-480.gif)
 
 </div>
 <!--
