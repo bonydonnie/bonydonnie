@@ -1,4 +1,6 @@
-<img align="right" src=https://visitor-badge.laobi.icu/badge?page_id=bonydonnie.bonydonnie />
+Here's some regular text.
+
+<p style="text-align: center;">![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)</p>
 
 # Hi there 👋
 
