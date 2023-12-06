@@ -16,9 +16,9 @@
 
 </h>
 
-<div align="left">
+<div align="center">
 
-![Rin Okamaru](https://images6.fanpop.com/image/photos/32800000/Rin-Okumura-GIF-Ao-No-Exorcist-anime-32834440-400-480.gif)
+![Rin Okamaru](https://i.pinimg.com/originals/93/d8/6a/93d86a9c9eb1867765f10757b8c7ae96.gif)
 
 </div>
 <!--
