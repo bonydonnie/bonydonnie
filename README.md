@@ -21,6 +21,12 @@
 ![Rin Okamaru](https://i.pinimg.com/originals/93/d8/6a/93d86a9c9eb1867765f10757b8c7ae96.gif)
 
 </div>
+
+<h6 align="left">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shizuru&size=35&duration=4000&pause=1000&color=3DD7F7&vCenter=true&random=false&width=430&height=80&lines=Learn+About+Me)](https://git.io/typing-svg)
+
+</h>
 <!--
 **bonydonnie/bonydonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
