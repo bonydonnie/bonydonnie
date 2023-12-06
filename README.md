@@ -1,4 +1,8 @@
-<img align="center" img src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)" >
+<div align="center";>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
+</div>
 
 # Hi there 👋
 
