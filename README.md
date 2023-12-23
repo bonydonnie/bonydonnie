@@ -32,7 +32,7 @@ I’m currently learning HTML with the help of @3osmic! Check her out
 
 </div>
 
- ###Pronouns: I am Him!
+ ### Pronouns: I am Him!
 <!--
 **bonydonnie/bonydonnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
