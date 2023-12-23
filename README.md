@@ -12,7 +12,7 @@
 
 <h6 align="center">
 
-##**Student at The University Of The Bahamas**
+## Student at The University Of The Bahamas
 
 </h>
 
